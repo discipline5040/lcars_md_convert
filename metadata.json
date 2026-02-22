@@ -1,0 +1,5 @@
+{
+  "name": "LCARS Doc Studio",
+  "description": "Generate modern standalone HTML documents from Markdown with a clean LCARS design aesthetic, featuring AI assistance and image generation.",
+  "requestFramePermissions": []
+}
